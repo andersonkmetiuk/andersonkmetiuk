@@ -1,10 +1,12 @@
-### <a href="https://em-content.zobj.net/thumbs/72/sony/336/flag-brazil_1f1e7-1f1f7.png" ><img alt="BrazilianFlag" src="https://em-content.zobj.net/thumbs/72/sony/336/flag-brazil_1f1e7-1f1f7.png" target="_blank"></a> Hi there, I'm Anderson Kmetiuk 
+### 👋 Hi there, I'm Anderson Kmetiuk 
+<a href="https://em-content.zobj.net/thumbs/72/sony/336/flag-brazil_1f1e7-1f1f7.png" ><img alt="BrazilianFlag" src="https://em-content.zobj.net/thumbs/72/sony/336/flag-brazil_1f1e7-1f1f7.png" target="_blank"></a> 
+
 ### :briefcase: Developer Tools Analyst at ExxonMobil
 ### :man_student: Studying Electronics Engineering at UTFPR
 ### :man_student: Electronics Technician (2014 - UTFPR)
 <!--
 **andersonkmetiuk/andersonkmetiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-👋
+
 
 Here are some ideas to get you started:
 
