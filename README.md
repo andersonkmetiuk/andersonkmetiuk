@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Anderson Kmetiuk :brazil:  
 ### :briefcase: Developer Tools Analyst at ExxonMobil
-### :student: Studying Electronics Engineering at UTFPR
+### :man_student: Studying Electronics Engineering at UTFPR
 ### :man_student: Electronics Technician (2014 - UTFPR)
 <!--
 **andersonkmetiuk/andersonkmetiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
