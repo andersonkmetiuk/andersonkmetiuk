@@ -1,4 +1,4 @@
-### Hi there, I'm Anderson Kmetiuk 👋 :brazil:
+### Hi there, I'm Anderson Kmetiuk 👋 <span>&#x1f1e7;&#x1f1f7;</span>
 ### :briefcase: Developer Tools Analyst at ExxonMobil
 ### :student: Studying Eletronics Engineering at UTFPR
 ### :man_student: Eletronics Technician (2014 - UTFPR)
