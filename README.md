@@ -1,4 +1,4 @@
-### Hi there, I'm Anderson Kmetiuk 👋 <img alt="Brazil" src=https://em-content.zobj.net/thumbs/160/openmoji/338/flag-brazil_1f1e7-1f1f7.png">
+### Hi there, I'm Anderson Kmetiuk 👋 :brazil: 
 ### :briefcase: Developer Tools Analyst at ExxonMobil
 ### :student: Studying Eletronics Engineering at UTFPR
 ### :man_student: Eletronics Technician (2014 - UTFPR)
