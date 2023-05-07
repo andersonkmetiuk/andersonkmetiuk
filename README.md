@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Anderson Kmetiuk (U+1F1E7 U+1F1F7)  
+### 👋 Hi there, I'm Anderson Kmetiuk <span>&#85;&#43;&#49;&#70;&#49;&#69;&#55;</span> (U+1F1E7 U+1F1F7)  
 ### :briefcase: Developer Tools Analyst at ExxonMobil
 ### :man_student: Studying Electronics Engineering at UTFPR
 ### :man_student: Electronics Technician (2014 - UTFPR)
