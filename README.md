@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 #
 [![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&theme=vue-dark&count_private=true)](https://github.com/andersonkmetiuk/)]
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica)](https://github.com/andersonkmetiuk/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica)]([https://github.com/andersonkmetiuk/](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica)))
