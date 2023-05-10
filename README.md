@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/anderson-luiz-de-souza-kmetiuk-8a48b8224/" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anderson%20Kmetiuk-blue?style=flat-square&logo=linkedin&logoColor=blue" target="_blank"></a>
 #
-[![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&theme=vue-dark&count_private=true)](https://github.com/andersonkmetiuk/)]
+[![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&theme=vue-dark&count_private=true)](https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&theme=vue-dark&count_private=true)]
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica)]([https://github.com/andersonkmetiuk/](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica)))
