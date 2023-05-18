@@ -1,9 +1,8 @@
 <!-- welcome message -->
  <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
   
- <h3>Glad to see you here!</h3>
+ <h3>I'm Anderson Kmetiuk</h3>
  
-### 👋 Hi there, I'm Anderson Kmetiuk 
 ### :briefcase: Developer Tools Analyst at ExxonMobil
 ### :man_student: Studying Electronics Engineering at UTFPR
 ### :man_student: Electronics Technician (2014 - UTFPR)
