@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 <p>
 <!-- GitHub Stats -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&show_icons=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&show_icons=true&hide_border=true&theme=tokyonight" />
 
 
 <!-- Most Used Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=tokyonight"/>
 
 </p>
