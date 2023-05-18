@@ -30,3 +30,17 @@ Here are some ideas to get you started:
 [![Anderson's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&theme=vue-dark&count_private=true)](https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&theme=vue-dark&count_private=true)]
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica)]([https://github.com/andersonkmetiuk/](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=css,html,batchfile,powershell,makefile,mathematica)))
+
+<!-- GitHub stats -->
+<b>⚡ My Dev Statistics</b>
+
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&show_icons=true&hide_border=true" />
+
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+</p>
