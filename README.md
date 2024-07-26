@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 <p>
 <!-- GitHub Stats -->
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&show_icons=true&hide_border=true&theme=tokyonight" />
-
-
 <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonkmetiuk&theme=tokyonight&hide_border=true" />
+ <!-- Most Used Languages -->
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=batchfile,powershell,makefile,mathematica,Standard%20ML,jupyter%20notebook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&theme=tokyonight&layout=pie"/>
 </p>
-<!-- Most Used Languages -->
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=batchfile,powershell,makefile,mathematica,Standard%20ML,jupyter%20notebook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&theme=tokyonight&layout=pie"/>
+
 
 
