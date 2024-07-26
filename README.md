@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonkmetiuk&theme=tokyonight&hide_border=true" width="49%">
 </p>
 <p align="center">
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=batchfile,powershell,makefile,mathematica,Standard%20ML,jupyter%20notebook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&theme=tokyonight&layout=pie" width="49%">
+  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=batchfile,powershell,makefile,mathematica,Standard%20ML,jupyter%20notebook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&theme=tokyonight&layout=pie" width="49%">
   <!-- You can add another image here if needed -->
 </p>
 
