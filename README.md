@@ -28,21 +28,24 @@ Here are some ideas to get you started:
 <!-- GitHub stats -->
 <b>⚡ My Dev Statistics</b>
 
-<div class="first-row" style="display: flex; justify-content: space-between">
-   <div class="left-col" style="width: 49%; text-align: left">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&show_icons=true&hide_border=true&theme=tokyonight" />
-   </div>
-   <div class="right-col" style="width: 49%; text-align: right">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonkmetiuk&theme=tokyonight&hide_border=true" />
-   </div>
+<div class="first-row" style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; justify-items: center;">
+    <div class="left-col" style="text-align: left;">
+        <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&show_icons=true&hide_border=true&theme=tokyonight" />
+    </div>
+    <div class="right-col" style="text-align: right;">
+        <img style="width: 100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=andersonkmetiuk&theme=tokyonight&hide_border=true" />
+    </div>
 </div>
-<div class="second-row" style="display: flex; justify-content: space-between">
-   <div class="left-col" style="width: 49%; text-align: left">
-      <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=batchfile,powershell,makefile,mathematica,Standard%20ML,jupyter%20notebook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&theme=tokyonight&layout=pie"/>
-   </div>
-   <div class="right-col" style="width: 49%; text-align: right">
-   </div>
+<div class="second-row" style="display: grid; grid-template-columns: 1fr 1fr; align-items: center; justify-items: center; margin-top: 20px;">
+    <div class="left-col" style="text-align: left;">
+        <img style="width: 100%;" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonkmetiuk&hide=batchfile,powershell,makefile,mathematica,Standard%20ML,jupyter%20notebook&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&langs_count=10&theme=tokyonight&layout=pie"/>
+    </div>
+    <div class="right-col" style="text-align: right;">
+        <!-- You can add content here if needed -->
+    </div>
 </div>
+
+
 
 
 
