@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 #
 ### 🤝🏻 Connect with me!
 <a href="https://www.linkedin.com/in/anderson-luiz-de-souza-kmetiuk-8a48b8224/" ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Anderson%20Kmetiuk-blue?style=flat-square&logo=linkedin&logoColor=blue" target="_blank"></a>
-<!-- GitHub stats -->
-<b>⚡ My Dev Statistics</b>
+
+### ⚡ My Dev Statistics
 
 <p align="center">
   <img width="378" src="https://github-readme-stats.vercel.app/api?username=andersonkmetiuk&show_icons=true&hide_border=true&theme=tokyonight" width="49%">
